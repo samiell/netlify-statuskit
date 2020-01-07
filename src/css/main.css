@@ -311,3 +311,6 @@ a:active {
 .footer p {
   display: inline-block;
 }
+.footer {
+  display:none
+}
